@@ -3,7 +3,7 @@ channels:
   - defaults
 
 dependencies:
-  - python=3.10
+  - python  #=3.10
   - pip
   - pytest
   - pyfmi  # https://anaconda.org/conda-forge/pyfmi https://github.com/modelon-community/PyFMI  # pyfmi includes numpy
